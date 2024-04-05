@@ -90,6 +90,6 @@ int main()
 		LinearSearch();
 		display();
 	}
-)
+
 
 
